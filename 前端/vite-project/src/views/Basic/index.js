@@ -1,0 +1,7 @@
+export {default as MatAdd} from './MatAdd.vue'
+export {default as MatMul} from './MatMul.vue'
+export {default as MatEchelon} from './MatEchelon.vue'
+export {default as MatTranspose} from './MatTranspose.vue'
+export {default as MatArea} from './MatArea.vue'
+export {default as LinearRelation} from './LinearRelation.vue'
+export {default as MatRank} from './MatRank.vue'

@@ -1,0 +1,21 @@
+.contentmat{
+    display: flex;
+    overflow: scroll;
+    white-space: nowrap;
+    position: relative;
+
+}
+.contentmat_noflex{
+    overflow: scroll;
+    white-space: nowrap;
+}
+
+.global_result{
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.contentmat_item{
+    flex-shrink:0;
+}
